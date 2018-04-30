@@ -1,3 +1,3 @@
 # hello-world
-It's an new try.
+It's a new try.
 Hi, there. It's my frist GitHub program.
